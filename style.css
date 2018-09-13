@@ -1,8 +1,6 @@
 .Navbar {
-    padding:20px;
     color: red;
     background-color: purple;
-    margin: none;
 }
 
 .button {
@@ -16,4 +14,8 @@
     display: inline-block;
     margin: none;
     font-size: 24px;
+}
+
+.title-color {
+    color: red
 }
