@@ -1,21 +1,13 @@
-.Navbar {
-    color: red;
-    background-color: purple;
+.pad {
+    padding-right: 15px;
 }
 
-.button {
-    background-color: purple;
-    border: 2px solid red;
-    color: red;
+.par {
     padding: 20px;
-
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin: none;
-    font-size: 24px;
 }
 
-.title-color {
-    color: red
+.vis {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
